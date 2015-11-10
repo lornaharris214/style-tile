@@ -18,6 +18,19 @@
 /* Textures or Patterns*/
 
 
+.pattern-1 {
+    background: url(../img/congruent_pentagon.png);
+}
+
+.pattern-2 {
+    background: url(../img/dark_embroidery.png);
+}
+
+.pattern-3 {
+    background: url(../img/footer_lodyas.png);
+}
+
+
 /* Imagery */
 
 
