@@ -36,7 +36,10 @@
 
 /* Icons */
 
-
+.icon-1, .icon-2, .icon-3 {
+    width: 98px;
+    height: 98px;
+}
 /* Typography */
 
 
